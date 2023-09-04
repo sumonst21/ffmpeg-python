@@ -22,7 +22,7 @@ pytest-mock==1.10.0
 pytest-runner==3.0
 pytest-xdist==1.22.2
 pytz==2017.3
-requests==2.18.4
+requests==2.31.0
 six==1.11.0
 snowballstemmer==1.2.1
 Sphinx==1.6.5
